@@ -2,7 +2,7 @@ import qrcode
 from PIL import Image
 
 # File paths
-logo_path = "the logo you want in the center of the qr code"
+logo_path = "the path of logo you want in the center of the qr code" #/path/to/logo.png
 qr_data = "your website here"
 qr_output_path = "output path"
 
